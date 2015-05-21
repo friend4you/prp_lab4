@@ -8,7 +8,7 @@ class Greeter
 
   def greet
 
-    "Hello, World"
+    "Hello, Crazy World"
 
   end
 
