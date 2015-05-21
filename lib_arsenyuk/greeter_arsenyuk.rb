@@ -8,7 +8,7 @@ class Greeter
 
   def greet
 
-    "Hello, #{@why}"
+    "Hello, #{@who}"
 
   end
 
